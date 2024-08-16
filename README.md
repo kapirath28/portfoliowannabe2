@@ -55,7 +55,10 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 📬 Contact
 
-Feel free to reach out to me via kapirathraina@gmail.com or connect with me on https://x.com/kapsayshieeee.
+Feel free to reach out to me via [![Gmail](https://img.shields.io/badge/Email-74C0FC?logo=gmail&logoColor=white)](mailto:kapirathraina@gmail.com)
+or connect with me on [![Twitter](https://img.shields.io/badge/Twitter-74C0FC?logo=twitter&logoColor=white)](https://x.com/kapsayshieeee)
+
+
 
 ---
 
