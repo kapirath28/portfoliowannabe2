@@ -1,5 +1,5 @@
 <h1 align="center">portfoliowannabe</h1>
-<h3 align="center">A clean, simple portfolio highlighting my work and skills in web development.</h3>
+<h3 align="center">A clean, simple portfolio highlighting my work and skills.</h3>
 
 
 <p align="center">
@@ -62,7 +62,18 @@ or connect with me on [![Twitter](https://img.shields.io/badge/Twitter-74C0FC?lo
 
 ---
 
-Thank you for visiting my portfolio repository! I hope you enjoy exploring my work as much as I enjoyed creating it.
-```
+## For the Future
 
-Available for coffee date with a open mic!!!.
+If you can help us with these. Please don't hesitate to open a
+[pull request](https://github.com/kapirath28/portfoliowannabe2/pulls).
+
+- Enable Dark Mode
+
+- Add More Sections
+
+## Show your support
+
+Give a ⭐️ if this project helped you! You can buy me a coffee if you'd like to support my work further.
+<div>
+  <a href="https://buymeacoffee.com/kapirath"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=kapirath&button_colour=FFDD00&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
+ </div>
