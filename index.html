@@ -534,10 +534,6 @@
                     role="tab" aria-controls="nav-os" aria-selected="false">
                     <div class="fab fa-github-alt mr-2 p-0 m-0" style="width: fit-content"></div>Open Source
                 </a>
-                <a class="nav-item nav-link bordered-nav ml-1 mr-1" id="nav-osc-tab" data-toggle="tab" href="#nav-osc"
-                    role="tab" aria-controls="nav-osc" aria-selected="false">
-                    <div class="fab fa-github-alt mr-2 p-0 m-0" style="width: fit-content"></div>OSS Contributions
-                </a>
                 <a class="nav-item nav-link bordered-nav ml-1 mr-1" id="nav-articles-tab" data-toggle="tab"
                     href="#nav-articles" role="tab" aria-controls="nav-articles" aria-selected="false">
                     <div class="fa fa-pen-alt mr-2"></div>Articles
@@ -1020,60 +1016,7 @@
 
             <div class="tab-pane fade" id="nav-osc" role="tabpanel" aria-labelledby="nav-osc-tab">
                 <!-- START OSC -->
-                <div class="large mt-4 ml-2 mr-2"><b>FirebaseUI-Android:</b> Optimized UI components for Firebase.
-                    FirebaseUI is an open-source library for Android that allows you to quickly connect common UI
-                    elements to Firebase APIs. I started contributing this repository and it's now my part of interest.
-                    I contributed many features as below.</div>
-                <ul class="list-group p-3 mx-auto" style="width: fit-content;">
-                    <li class="list-group-item" style=" background: transparent;">
-                        <div class="large mt-2"><a href="https://github.com/firebase/FirebaseUI-Android/pull/1603"
-                                target="_blank">#1603 </a>Feature - Realtime Database Pagination</div>
-                        <div class="small mt-2">Here, I have implemented FirebaseRecyclerPagingAdapter that supports
-                            Pagination of Firebase Database with RecyclerView as issue #1601. This was my first ever
-                            contribution to OSS. I learnt alot from this. This was wonderful experience.</div>
-                    </li>
-                    <li class="list-group-item" style=" background: transparent;">
-                        <div class="large mt-2"><a href="https://github.com/firebase/FirebaseUI-Android/pull/1609"
-                                target="_blank">#1609 </a>Fix Issue #1608 - retry() failing in FirestorePagingAdapter
-                        </div>
-                        <div class="small mt-2">I have fixed retry() failing and added a new method refresh() to refresh
-                            the list from the beginning as issue #1608</div>
-                    </li>
-                    <li class="list-group-item" style=" background: transparent;">
-                        <div class="large mt-2"><a href="https://github.com/firebase/FirebaseUI-Android/pull/1615"
-                                target="_blank">#1615 </a>Ability to get occurred exception - Issue 1592 </div>
-                        <div class="small mt-2">I have updated code as FirebaseRecyclerPagingAdapter and added an
-                            ability to get the occurred Exception while using FirestorePagingAdapter.</div>
-                    </li>
-                    <li class="list-group-item" style=" background: transparent;">
-                        <div class="large mt-2"><a href="https://github.com/firebase/FirebaseUI-Android/pull/1660"
-                                target="_blank">#1660 </a>Method to update Query in Firebase and Firestore Adapters.
-                        </div>
-                        <div class="small mt-2">This PR Implements a method to change/update Query in both Firebase as
-                            well as Firestore Adapters. (Issue #1614).</div>
-                    </li>
-                    <li class="list-group-item" style=" background: transparent;">
-                        <div class="large mt-2"><a href="https://github.com/firebase/FirebaseUI-Android/pull/1692"
-                                target="_blank">#1692 </a>Method to update options at runtime [Paging Adapters]</div>
-                        <div class="small mt-2">I have added option to change options at runtime in
-                            FirestorePagingAdapter class.
-                            All LiveData objects should be re-initialised after changing options. So, I have removed
-                            their final modifier and also added new init() method which initializes LiveData objects
-                            from constructor and from updateOptions method.</div>
-                    </li>
-                    <li class="list-group-item" style=" background: transparent;">
-                        <div class="large mt-2"><a href="https://github.com/firebase/FirebaseUI-Android/pull/1694"
-                                target="_blank">#1694 </a>Method to Update Options at runtime [RTDB Paging Adapter]
-                        </div>
-                        <div class="small mt-2">I have added method updateOptions() in RTDB Paging Adapter. It's exactly
-                            same version as Firestore Paging Adapter.</div>
-                    </li>
-                </ul>
-                <!-- END OSC -->
-            </div>
 
-            <div class="tab-pane fade" id="nav-articles" role="tabpanel" aria-labelledby="nav-articles-tab">
-                <div class="text-center m-2">Read my latest blogs on <a href="https://blog.shreyaspatil.dev/" target="_blank">blog.shreyaspatil.dev</a></div>
                 <!-- START Articles -->
                 <div class="card-deck">
                     <div class="card">
@@ -1551,7 +1494,7 @@
 
     <!-- Footer -->
     <footer class="m-3 mx-auto">
-        <div class="text-center text-white p-3" style="background-color: rgba(0,0,0,0.8)">Designed By : Shreyas Patil
+        <div class="text-center text-white p-3" style="background-color: rgba(0,0,0,0.8)">Designed By : Kapirath Raina
         </div>
     </footer>
 
